@@ -2,7 +2,7 @@
 
 Sketch out different User Interfaces for an Elevator with 1200 Floors. 
 
-### Elevator Constraints:
+### Elevator UI Constraints:
 #### 1. Elevators should know beforehand where a particular user needs to get on and off.
 Explanation: Because the elevator knows when it is going to pick someone up and drop someone off, issues regarding scheduling elevator rides and capacity will be solved.
 #### 2. Elevator should display capacity and when the next one will be available if it is full.
